@@ -1,7 +1,6 @@
 # SITE SETUP
 # Guide: https://wowchemy.com/docs/getting-started/
 # Documentation: https://wowchemy.com/docs/
-# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
 
@@ -14,46 +13,33 @@ font_size: L
 
 site_type: Person
 local_business_type: ''
-org_name: ''
-description: ''
+org_name: South China University of Technology
+description: 'Academic homepage of Huajie Su, a Ph.D. student in Mathematics working on integrable systems, nonlinear waves, orbital stability, and finite-gap solutions.'
 twitter: ''
 
-# Contact (edit or remove options as required)
+# Contact
+# Email is intentionally left blank for now. Add your institutional email later if you want it public.
 
-email: test@example.org
-phone: 888 888 88 88
+email: ''
+phone: ''
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+  street: ''
+  city: Guangzhou
+  region: Guangdong
+  postcode: ''
+  country: China
+  country_code: CN
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+  latitude: ''
+  longitude: ''
+directions: ''
+office_hours: []
+appointment_url: ''
 contact_links:
-  - icon: twitter
+  - icon: github
     icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+    name: GitHub
+    link: 'https://github.com/WangSu-dev'
 
 # Site header
 
@@ -76,8 +62,9 @@ address_format: en-us
 
 highlight: true
 highlight_languages:
-  - r
-math: false
+  - matlab
+  - tex
+math: true
 diagram: false
 privacy_pack: false
 edit_page:
@@ -118,41 +105,3 @@ projects:
   publication_view: 2
   talk_view: 2
 breadcrumb:
-  page_types:
-    book: true
-comments:
-  provider: ''
-  commentable:
-    post: true
-    book: true
-    project: true
-    publication: true
-    event: true
-  disqus:
-    shortname: ''
-    show_count: true
-  commento:
-    url: ''
-search:
-  provider: wowchemy
-  algolia:
-    app_id: ''
-    api_key: ''
-    index_name: ''
-    show_logo: false
-map:
-  provider: ''
-  api_key: ''
-  zoom: 15
-marketing:
-  google_analytics: ''
-  google_tag_manager: ''
-  google_site_verification: ''
-  baidu_site_verification: ''
-  baidu_tongji: ''
-cms:
-  branch: master
-  local_backend: false
-icon:
-  pack:
-    ai: true
