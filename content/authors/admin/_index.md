@@ -35,7 +35,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:zhangxiaoen@scut.edu.cn
+  link: mailto:mashj@mail.scut.edu.cn
 - icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.com/scholar?q=%22Huajie+Su%22+%22South+China+University+of+Technology%22
@@ -47,7 +47,7 @@ social:
   link: https://github.com/WangSu-dev
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "zhangxiaoen@scut.edu.cn"
+email: "mashj@mail.scut.edu.cn"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
