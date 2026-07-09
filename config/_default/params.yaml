@@ -18,9 +18,8 @@ description: 'Academic homepage of Huajie Su, a Ph.D. student in Mathematics wor
 twitter: ''
 
 # Contact
-# Email is intentionally left blank for now. Add your institutional email later if you want it public.
 
-email: ''
+email: 'zhangxiaoen@scut.edu.cn'
 phone: ''
 address:
   street: ''
@@ -40,6 +39,14 @@ contact_links:
     icon_pack: fab
     name: GitHub
     link: 'https://github.com/WangSu-dev'
+  - icon: graduation-cap
+    icon_pack: fas
+    name: Google Scholar
+    link: 'https://scholar.google.com/scholar?q=%22Huajie+Su%22+%22South+China+University+of+Technology%22'
+  - icon: orcid
+    icon_pack: ai
+    name: ORCID
+    link: 'https://orcid.org/0009-0009-7314-1350'
 
 # Site header
 
